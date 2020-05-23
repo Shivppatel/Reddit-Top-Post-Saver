@@ -1,0 +1,44 @@
+	A tool that copies a selected area of your screen, not as a picture, but as pastable text (GitHub in comments)
+Posted By: PR0T064
+
+[Source Code](https://github.com/ianzhao05/textshot)
+
+Not a particularly complex program, as the OCR backend uses Google's Tesseract engine, but I hope it can be useful!
+	Posted By: PR0T064 
+
+I can see a market for this - from blocked pdf files to a word doc
+	Posted By: youarestronk 
+
+That's pretty cool
+	Posted By: float7 
+
+Nice I love using a similar feature on the Note 10.
+	Posted By: attentionpleese 
+
+awesome
+	Posted By: SanJJ_1 
+
+This is cool work. I implemented a very similar concept to create an e-mail listener that automates database lookup requests from co-workers who refuse to type out details, but rather paste them inline in e-mails as picture snippets.   
+
+I like your application, I think a great next step could be copying multiple pieces of text/lines of text to different clipboard hotkeys, so copying and pasting 3-5 individual lines instead of typing all of it out would be possible. Could definitely be a godsend for people doing arduous data entry tasks if you're interested in doing that. Either way, good work.
+	Posted By: traincitypeers 
+
+You can also do this with OneNote. Cool program though!
+	Posted By: JamokaJeff 
+
+Similar to Project Naptha which allows highlighting text in images it also has a chrome extension https://projectnaptha.com
+	Posted By: portal_dive 
+
+can it copy other languages? I wonder if I can combine this with my language learning study method..
+	Posted By: coofzilla 
+
+Amazing
+	Posted By: sabiansoldier 
+
+Doesn't work on multiple monitors.
+
+I have three screens,the left having my IDE, the center having a browser open, the right having iterm.  After running, the screen goes black.  If I click and drag, it copies from the center monitor even though it's clicking and dragging on a blank screen from the right monitor.
+
+Otherwise, it's pretty kick ass.
+	Posted By: SteroidAccount 
+

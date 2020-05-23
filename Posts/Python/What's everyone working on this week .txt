@@ -1,0 +1,84 @@
+	What's everyone working on this week?
+Posted By: AutoModerator
+
+I have been working with the COVID-19 global and Mexican data:
+
+https://github.com/PhantomInsights/covid-19
+
+With all the data I'm able to create the following plots:
+
+https://i.redd.it/d54jg03o5mz41.png
+
+It only requires pandas, matplotlib and seaborn.
+	Posted By: Agent_Phantom 
+
+I removed the EOL notice from [Serpent.AI](https://github.com/SerpentAI/SerpentAI) after 18 months with the intent of bringing the framework into 2020: Python 3.8, less dependencies, better plugin system, better performance, easier to use (Installer, GUI) and a clear separation between the use cases of users (I want to train agents to learn to play games I own) and developers (I also want to create plugins using the SDK).
+
+The majority of issues people encountered when attempting to use the framework were install-related: Failed install of some packages on Windows (no, wrong or misconfigured compilers), installing the correct CUDA + cuDNN and configuring them, installing the correct Tesseract and configuring it. 
+
+The first thing I did is implement robust package management with Poetry. All package dependencies now target 3.8 binary wheels so everything installs flawlessly on Windows, even without a compiler (the default). PyTorch can be installed from their custom pip repository to be bundled with CUDA + cuDNN and Tensorflow will pick up on it as long as PyTorch is imported before it. Pretty awesome! Finally a portable version of Tesseract can now be installed using _'serpent download tesseract'_ on Windows.
+
+One of the interesting challenges I'm going to be facing this week is trying to completely strip out the Redis dependency. Redis was used to store the frame buffer when games were being captured to make it available across processes. It was working well and performance was acceptable but it was a 3rd-party dependency that was making the installation process more complicated, especially with no official support for Windows. With Python 3.8 now released, the plan is to leverage [SharedMemory](https://docs.python.org/3/library/multiprocessing.shared_memory.html) to store the buffer of a NumPy array representing the frame stack instead. the benchmarks should prove interesting.
+
+All in all, super happy to be on this project again.
+	Posted By: SerpentAI 
+
+Trying to make text-based rpg adventure game with interactive fiction and rogue-lite elements. It may be too ambitious for me, but it's gonna be a lot of fun.
+
+EDIT: Finally figured out an idea for the story.
+	Posted By: LizardOrgMember5 
+
+Really trying to get better at object oriented programming in python.
+	Posted By: anaxagoras_85 
+
+I recently binge-watching Computerphile and came across a video involving Mike Pound about haveibeenpwned.com, the website that monitors leaks involving emails and passwords.
+
+Have I Been Pwned has an input box that you can enter your password to check if it has been involved in any breaches. The concern, of course, is why would you enter your password into this website when it could be collating all the entered passwords, then hack you later?
+
+TL:DR you encrypt your password with SHA1, then run the first 5 characters of the hash against a list of hashes that Have I Been Pwned returns - from that, you can check how times your password was involved in a leak.
+
+Have I Been Pwned also includes a REST API to get this list of hashes and times leaked - my project was to recreate the input box so I can safely check my passwords against their API.
+
+Worked nicely! A password I had when I was about 10 or so had been involved in about 53 leaks, but all my passwords since all appear solid, as far as Have I Been Pwned is concerned.
+	Posted By: torbray 
+
+I've decided to share some of my knowledge with youtube and start a series that builds a simple portfolio and helps others!
+
+If you'd like to check it out, the link is below
+
+https://www.youtube.com/channel/UCIvgrzfBVT2Y4xchZiPgo1g?view_as=subscriber
+	Posted By: Alanisshrek 
+
+I'm working on improving error reporting for my [feed reader](https://github.com/lemon24/reader); at the moment, broken feeds are logged by the job that updates feeds, but there's no way to see it failed in the web app.
+	Posted By: genericlemon24 
+
+Just started learning Python and hope to write my own roguelike game as the result. Thankfully there are more than a few guides and helpful articles for various stages of this journey.
+	Posted By: MrDave95 
+
+Just downloaded some humble bundle software to teach me how to use pygame! So hopefully a 2D game this week
+	Posted By: itsviirtue 
+
+Been watching a lot of anime so decided to be a tiny bit more productive. So I started make a text adventure game based off of That time I got reincarnated as a slime (Tensei Slime). 
+https://github.com/dthomas550/TenseiPy 
+Still in very early alpha. My aim is to have you feel like your climbing the power latter but still feel fun. cus predator is a wee bit OP.
+	Posted By: DXZT99 
+
+Working on a model to predict changes in patient status based on changes in charges for inpatients.
+	Posted By: IlliterateJedi 
+
+I started writing a game... It will be a retro 3d dungeon crawler. I've never worked in python before, but I've got a lot of programming experience so it really isn't that hard to slip into. I just finished my second day, I've already created a little map that you can wander around, along with a couple tilesets for both dungeon and city... It's fun, and since the zombie Apocalypse has been so disappointing, I needed to do something fun
+	Posted By: TIDMADT 
+
+Simple stuff, but I've used pyautogui to shave about 15 minutes off of a weekly task.
+	Posted By: Jeddor3 
+
+a discord bot
+	Posted By: Neko_Crusader 
+
+I'm working on something I've had in my mind for quite some time now. For those that have played OGame or similar type of games, even Idle/AFK games on the phone. I want to create something similar, but in a high fantasy setting inspired by D&D. Create your character, like you can tell it to adventure in Cave X, combat other players and so forth. Gathering resources and craft things. 
+
+But I am stuck on how to write the game loop, interactions with the players and so forth, still deciding on how I want to store things in the background, write it to a text file? SQL? NoSQL? 
+
+I do however have a somewhat of a web interface, and discord integration (commands to get character things, tell a character to move and so forth)
+	Posted By: Z_Zeay 
+

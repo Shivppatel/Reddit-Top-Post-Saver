@@ -1,0 +1,36 @@
+	Kivy app doesn't open when started as thread
+Posted By: Schlange23
+
+Hello! I'm a bot!
+
+It looks to me like your post might be better suited for r/learnpython, 
+a sub geared towards questions and learning more about python **regardless of how advanced your question might be**. 
+That said, I am a bot and it is hard to tell.
+
+I'm sure you've seen this information before, but just in case here it is as a reminder: 
+    
+Please follow the subs rules and guidelines when you do post there, it'll help you get better answers faster.
+
+Show /r/learnpython **the code you have tried and describe in detail where you are stuck.** 
+If you are getting an error message, include the full block of text it spits out.
+Quality answers take time to write out, and many times other users will need to ask clarifying questions. Be patient and help them help you. 
+
+You can also ask this question in the [Python discord](https://discord.gg/3Abzge7), 
+a large, friendly community focused around the Python programming language, open to those who wish to learn the language 
+or improve their skills, as well as those looking to help others. 
+
+
+
+***
+
+[^(README)](https://github.com/CrakeNotSnowman/redditPythonHelper) 
+^(|)
+[^(FAQ)](https://github.com/CrakeNotSnowman/redditPythonHelper/blob/master/FAQ.md) 
+^(|)
+^(this bot is written and managed by /u/IAmKindOfCreative) 
+
+
+
+^(This bot is currently under development and experiencing changes to improve its usefulness)
+	Posted By: pythonHelperBot 
+

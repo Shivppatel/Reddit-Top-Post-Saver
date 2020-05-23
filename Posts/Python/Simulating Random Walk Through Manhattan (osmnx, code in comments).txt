@@ -1,0 +1,8 @@
+	Simulating Random Walk Through Manhattan (osmnx, code in comments)
+Posted By: cosinecasino
+
+Played around with OSMNX for the first time and it makes visualizations easy! It's based off openstreetmaps. At every intersection, I make a random choice on which way to turn. 
+
+A jupyter notebook that explains how this works can be found [here](https://github.com/sunnybala/sunnybala.github.io/blob/master/assets/notebooks/manhattan_random_walk.ipynb), or after a jump on my quick [blog post](http://sunnybala.com/2020/03/11/random-walk-manhattan.html) alongside other write-ups.
+	Posted By: cosinecasino 
+

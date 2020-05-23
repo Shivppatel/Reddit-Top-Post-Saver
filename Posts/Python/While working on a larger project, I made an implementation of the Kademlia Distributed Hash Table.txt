@@ -1,0 +1,6 @@
+	While working on a larger project, I made an implementation of the Kademlia Distributed Hash Table
+Posted By: ThePenultimateOne
+
+The goals of my larger project are somewhat outlined in the post, but I'd like to make something that makes distributed systems networking becomes as easy as SocketIO
+	Posted By: ThePenultimateOne 
+

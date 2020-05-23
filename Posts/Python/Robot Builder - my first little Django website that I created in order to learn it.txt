@@ -1,0 +1,15 @@
+	Robot Builder - my first little Django website that I created in order to learn it
+Posted By: Peksio
+
+The site looks great and runs very fast for me!!
+
+I'm asking as a beginner, would you suggest to learn something else besides Python's basics before starting working on a site like this?
+	Posted By: ben154451 
+
+Hi!
+
+This website works great on my devices(laptop and mobile).
+
+I am a noob in web dev. I have few question. What are the contents you stored in the DataBase?
+	Posted By: Chandradharrao 
+

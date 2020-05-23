@@ -1,0 +1,86 @@
+	/r/Python Job Board for May, June, July
+Posted By: aphoenix
+
+**Climate Change NFP looking for volunteers.**  
+**Remote team**
+
+We are searching for Python back end developers with Flask and API experience. Full stack and/or devops is a plus!  Back end not your thing? We would also welcome front end devs with React skills.
+
+Data visualization experience is a bonus!  We are Climate Mind – [www.climatemind.org](http://www.climatemind.org/) and we are building a tool that communicates to users how climate change personally affects them. How the things they care about are affected and gives attractive solutions that align with users' world view, lifestyle, identity, skillset, location and more. 
+
+This is an international team of volunteers who are alarmed about climate change.  If this sounds like you give us an email at hello@climatemind.org or drop us a message.
+	Posted By: ClimateMind 
+
+**Python (Django) Web Developer Required**
+
+**Remote Working**
+
+I am looking to find a Python (Django) Web Developer. I paid for the development of a Background Check application a few years ago, which is pretty much all built in Django, CSS & Javascript. It was made available over the web and mobile. In addition to the public sites, a task-driven back office interface for use by multiple users was set up. The code has had no development on it in quite a while, but I now need some help unravelling the it, to get the core application working again. No prior experience is required with Background Checks systems is required. We are looking for good experience with Python (Django), along with associated CSS & JavaJavascript. You must have had experience developing applications with sign-up, login (password authentication), integrating payment facilities, automated email, integration with third party APIs, logging for auditing purposes. You will be required to sign an NDA to be considered for this job. Good English language skills are ESSENTIAL. If anyone is interested, please could you send me some examples of your work or a CV?
+	Posted By: aaronkravitz 
+
+**Remote Side Hustle Gig: Create blogs and videos using our Platform**  
+We're looking for a few developers to help build out our blog and write about scripts they build using our platform called WayScript. WayScript is a rapid development platform built for developers. 
+
+These blog posts you would write are short and explain simple everyday concepts using WayScript. *Examples: Web scraping using Python, scheduling Python scripts to run daily, copying SQL data to Google sheets, creating a slack notification when your Github repo has a new commit, etc.*
+
+If you like to build tools, develop scripts, etc and also like to teach other devs how you did it, please PM me. Visit the "Learn" section of our website to see examples. If you also like creating videos, that's a bonus. This is a "gig" job where we would pay an agreed flat fee for each post or video you create, you can work at your leisure and could be a long term side hustle for you.
+	Posted By: TJ-MD 
+
+great!
+	Posted By: SGO_123 
+
+if I may, check out /r/PythonJobs, /r/remotepython as well
+	Posted By: sexyama 
+
+**Senior Python (Django) DevOps Engineer (Malaysia/Remote)**
+
+Please apply here: [https://www.jobstreet.com.my/en/job/4311131/](https://www.jobstreet.com.my/en/job/4311131/)
+
+2 positions open.
+
+Role & responsibilities:
+
+* Developing internal application (Python/Django & Bash) to improve internal process efficiency and performance.
+* Managing AWS infrastructure including CI/CD, configuration, provisioning, operation and maintenance of all systems related to the proper functions of software and related infrastructure.
+* Designing and implementing security systems and measures as per best practices and the companies’ contractual obligations
+* Documenting architecture and processes
+* Automating the scaling and deployment of all systems relating to the optimal functioning of end-user service
+* Debugging production, staging and testing environments and issues
+* Automating and managing monitoring of all systems
+* Working with the development and infrastructure teams to understand and improve the system and application as a whole
+* Other tasks as directed
+
+Skills:
+
+* Python
+* Bash
+* AWS
+* CI/CD
+* Docker/Docker Swarm
+* Java
+* Git
+* JIRA
+* Windows & Linux servers
+* InfoSec/NetSec
+* Knowledge in building distributed, highly available applications
+* Ability to translate business requirement into technology solutions and drive these to business value
+* Ability to facilitate teamwork and collaboration through effectively managing change
+* An ability to articulate IT operations and supporting business process management
+* Problem solving and escalation management
+* Excellent verbal and written communication
+* Organised and able to meet deadlines
+	Posted By: rorykoehler 
+
+**Mumbai - onsite** 
+
+Hiring for a pure python backend developer to improve and integrate redis caching and queuing capability in our flask application. The application supports quantitative uses cases and therefore has high I/O and compute requirements. 
+
+Folks are welcome to PM.
+	Posted By: sleeppilot 
+
+Not sure if I'm allowed to post as an individual here, but I'm looking to take on some interesting work as I have a break from school for the next few months. BS in CompSci and MS expected to graduate this fall. Some work experience, mostly DoD. Can give more info, but will be over PM.
+	Posted By: DARPA1191969v1 
+
+I agree
+	Posted By: michelle9820 
+

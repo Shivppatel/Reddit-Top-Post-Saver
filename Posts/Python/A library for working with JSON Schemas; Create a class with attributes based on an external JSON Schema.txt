@@ -1,0 +1,9 @@
+	A library for working with JSON Schemas; Create a class with attributes based on an external JSON Schema
+Posted By: deadwisdom
+
+This looks great. I look forward to eagerly deep diving.
+	Posted By: IamSp00ky 
+
+This seems cool. My team's doing something similar. Maybe we can use this. Ha!
+	Posted By: violentagreements 
+

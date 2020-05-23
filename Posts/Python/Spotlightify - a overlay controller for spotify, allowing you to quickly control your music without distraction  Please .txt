@@ -1,0 +1,46 @@
+	Spotlightify - a overlay controller for spotify, allowing you to quickly control your music without distraction. Please let me know if you are interested in this application as I am thinking of making it public on my github in the near future (once more features have been developed), thanks!
+Posted By: Murpho19
+
+This application was developed using pyqt5 and spotipy
+
+Edit: Thanks to everyone who upvoted and commented I really appreciate it. I am working to get this code up on github as soon as possible and after that would very much welcome contributions. Thanks again!
+	Posted By: Murpho19 
+
+Pretty cool! Maybe include some of the most commonly used controls as buttons above the input area?
+	Posted By: SupahNoob 
+
+This is soo good! If you open source it, I’d love
+To help contribute :)
+	Posted By: 5ider 
+
+This would be nice built-in to [Alfred](https://www.alfredapp.com/).
+	Posted By: aedrin 
+
+Yep 11/12 would use.
+	Posted By: soap1337 
+
+Yo dude. What are you doing on reddit, sell this to spotify themselves! That feels so integrated! Stellar job!
+	Posted By: goobabo22 
+
+This is too much typing for me. It negates the value so much that I would use the full UI instead.
+
+ I recommend to go full hotkey mode. You are reducing commands to key presses instead of mouse clicks, and there are only so many commands. Lets get rid of all unnecessary key presses. Once I open the interface, just show a search bar where typing a song is optional, and have icons with keys below. Example: play/"P", Queue/"Q", etc. When you press a key, show the cached values for that action and allow searching for a brand new value. 
+
+When you type in the search bar, allow you to pick a song and then use the hotkeys to pick a function.
+	Posted By: Panda_Mon 
+
+That my friend is awesome! Where did you find the wallpaper?
+	Posted By: Techeavy 
+
+ctrl +space to exit would probably be better. this looks fantastic. this is my fav feature on mac os
+	Posted By: RubberFistOfJustice 
+
+I am once again asking for the source code
+	Posted By: nekogareth 
+
+This is dope. I can't tell you how much time this would save me from having to swap to another desktop tab just to play a song. Got this on GitHub?
+	Posted By: Zer0T3x 
+
+This is amazing. How did you make the GUI?
+	Posted By: ravenspired 
+

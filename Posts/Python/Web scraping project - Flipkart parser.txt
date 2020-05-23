@@ -1,0 +1,11 @@
+	Web scraping project - Flipkart parser
+Posted By: DGAssassin1
+
+Well done.. Keep building stuffs. 😁
+	Posted By: ashhcs 
+
+GitHub-  [https://github.com/NIKHILDUGAR/FlipkartParser/blob/master/Flipkartparser.py](https://github.com/NIKHILDUGAR/FlipkartParser/blob/master/Flipkartparser.py) 
+
+If you want to know how I began learning, check this -   [https://github.com/NIKHILDUGAR/practicingBeautifulSoup](https://github.com/NIKHILDUGAR/practicingBeautifulSoup)
+	Posted By: DGAssassin1 
+
